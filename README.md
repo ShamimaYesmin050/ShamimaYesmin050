@@ -34,7 +34,7 @@ I'm **Shamima Yesmin Jarin**
 ---
 
 ## 📫 Connect With Me
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/ShamimaYesmin050
 - LeetCode: https://leetcode.com/u/SYJarin/
 - Codeforces: https://codeforces.com/profile/SYJarin
 - LinkedIn: https://www.linkedin.com/in/shamima-yesmin-jarin-911605351/
